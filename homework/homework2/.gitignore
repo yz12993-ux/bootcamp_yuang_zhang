@@ -1,0 +1,10 @@
+# Local configuration and virtual environments
+.env
+env/
+.venv/
+
+# Python and Jupyter artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
